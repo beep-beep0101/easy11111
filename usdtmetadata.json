@@ -1,0 +1,7 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": "6",
+  "description": "Tether USD stablecoin",
+  "image": "https://tether.to/images/logoCircle.png"
+}
