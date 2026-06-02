@@ -1,5 +1,5 @@
 {
-  "url": "https://ton.org",
+  "url": "http://localhost:8000",
   "name": "TON Official Staking",
   "iconUrl": "https://ston.fi/_next/static/media/logo.8f5e8f8f.svg",
   "termsOfUseUrl": "https://ton.org/terms",
