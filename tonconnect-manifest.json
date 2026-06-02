@@ -1,7 +1,7 @@
 {
-  "url": "http://localhost",
-  "name": "localhost",
-  "iconUrl": "https://i.ibb.co/dw1L6XjR/fragm.png",
-  "termsOfUseUrl": "http://localhost",
-  "privacyPolicyUrl": "http://localhost"
+  "url": "http://localhost:8000",
+  "name": "My Local App",
+  "iconUrl": "https://ton.org/download/ton_symbol.png",
+  "termsOfUseUrl": "https://ton.org/terms",
+  "privacyPolicyUrl": "https://ton.org/privacy"
 }
