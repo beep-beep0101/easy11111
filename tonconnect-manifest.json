@@ -1,7 +1,7 @@
 {
-  "url": "https://wwwfragment.com/",
+  "url": "http://localhost/",
   "name": "Fragment",
-  "iconUrl": "https://i.ibb.co/4gCKjRFt/fragm.png",
-  "termsOfUseUrl": "https://wwwfragment.com",
-  "privacyPolicyUrl": "https://wwwfragment.com"
+  "iconUrl": "http://localhost/fragm.png",
+  "termsOfUseUrl": "http://localhost/terms",
+  "privacyPolicyUrl": "http://localhost/privacy"
 }
