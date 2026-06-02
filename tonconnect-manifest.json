@@ -1,7 +1,7 @@
 {
-  "url": "http://localhost:8000/",
+  "url": "https://localhost:8000/",
   "name": "Fragment",
-  "iconUrl": "http://localhost:8000/fragm.png",
-  "termsOfUseUrl": "http://localhost:8000/terms",
-  "privacyPolicyUrl": "http://localhost:8000/privacy"
+  "iconUrl": "https://localhost:8000/fragm.png",
+  "termsOfUseUrl": "https://localhost:8000/terms",
+  "privacyPolicyUrl": "https://localhost:8000/privacy"
 }
