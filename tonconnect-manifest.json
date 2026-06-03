@@ -1,7 +1,7 @@
 {
-  "url": "http://192.168.186.174:8000",
+  "url": "http://192.168.186.174/",
   "name": "111",
   "iconUrl": "https://i.ibb.co/NnCmRBJs/scratcher-win-logo.png",
-  "termsOfUseUrl": "http://192.168.186.174:8000",
-  "privacyPolicyUrl": "http://192.168.186.174:8000"
+  "termsOfUseUrl": "http://192.168.186.174/",
+  "privacyPolicyUrl": "http://192.168.186.174/"
 }
