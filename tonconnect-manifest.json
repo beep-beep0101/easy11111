@@ -1,7 +1,7 @@
 {
   "url": "http://localhost:8000",
   "name": "TON Official Staking",
-  "iconUrl": "http://localhost:8000/lol.png",
-  "termsOfUseUrl": "http://localhost:8000",
-  "privacyPolicyUrl": "http://localhost:8000"
+  "iconUrl": "https://ston.fi/_next/static/media/logo.8f5e8f8f.svg",
+  "termsOfUseUrl": "https://ton.org/terms",
+  "privacyPolicyUrl": "https://ton.org/privacy"
 }
